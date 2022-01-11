@@ -1,0 +1,21 @@
+// GET USER
+export const GET_USERS = "GET_USERS";
+
+// GET ORDER
+export const GET_ORDERS = "GET_ORDERS";
+export const GET_DETAIL_ORDER = "GET_DETAIL_ORDER";
+export const PAY_ORDER = "PAY_ORDER";
+
+// GET HOUSE
+export const GET_HOUSE_OWNER = "GET_HOUSE_OWNER";
+
+// GET HOUSE LIST PUBLIC
+export const GET_HOUSE_LIST = "GET_HOUSE_LIST";
+
+// GET DETAIL HOUSE FOR PUBLIC
+export const GET_DETAIL_HOUSE = "GET_DETAIL_HOUSE";
+
+// CHECKOUT
+export const POST_CHECKOUT = "CHECKOUT";
+
+export const POST_APPROVE = "POST_APPROVE";
